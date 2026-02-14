@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: 1701-RaidInvite
-## Notes: Auto-invite players who whisper "inv" or "invite" when you have raid lead/assist
+## Notes: Shows a window to approve/decline raid invite requests from whispers
 ## Author: USS Enterprise Guild
 ## Version: 1.0.0
 
