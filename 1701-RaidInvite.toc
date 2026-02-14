@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: 1701-RaidInvite
+## Title: 1701 Addons - Raid Invite
 ## Notes: Shows a window to approve/decline raid invite requests from whispers
 ## Author: USS Enterprise Guild
 ## Version: 1.0.0
