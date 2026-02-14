@@ -5,7 +5,7 @@
 local ADDON_PREFIX = "|cff00ff00[1701-RaidInvite]|r "
 local MAX_ROWS = 10
 local ROW_HEIGHT = 22
-local WINDOW_WIDTH = 340
+local WINDOW_WIDTH = 380
 
 local pendingInvites = {}
 local rows = {}
